@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to filter an ENUM-type column in the Syncfusion Blazor DataGrid using a DropDownList component. Instead of using the default filter input, the sample provides a dropdown-based filtering interface that displays the available enum values and allows users to quickly filter records based on the selected enum option. This approach improves usability when filtering fields that are backed by strongly typed enumerations and helps ensure consistent filter values.
+This sample demonstrates how to filter an ENUM-type column in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using a [DropDownList](https://www.syncfusion.com/blazor-components/blazor-dropdown-list) component. Instead of using the default filter input, the sample provides a dropdown-based filtering interface that displays the available enum values and allows users to quickly filter records based on the selected enum option. This approach improves usability when filtering fields that are backed by strongly typed enumerations and helps ensure consistent filter values.
 
 ## Key Features
 
